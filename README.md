@@ -28,7 +28,7 @@ Begin the program execution.
 
 🔹 Step 2: Define the Node Class
 
-1.create a class named Node with:
+>create a class named Node with:
 
 >An integer variable data to store the value of the node.
 
@@ -108,8 +108,6 @@ Begin execution.
 >node*& head → a reference to the head of the list.
 
 >int data → value to be inserted.
-
-Steps:
 
 >Create a new node using new_node = new node(data) → this allocates memory and initializes data and next = NULL.
 
