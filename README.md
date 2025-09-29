@@ -75,7 +75,7 @@ Return from the main() function.
 
 Program ends successfully.
 
-CODE 2:
+# CODE 2:
 Step 1: Start the Program
 
 Begin execution.
