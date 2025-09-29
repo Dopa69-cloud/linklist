@@ -18,11 +18,11 @@ A computer with a C++ compiler (like g++, clang++)
 
 4.next: A pointer to the next node.
 
-Single Node: This example demonstrates only one node creation and displays its data and pointer.
+5.Single Node: This example demonstrates only one node creation and displays its data and pointer.
 
-Dynamic Memory Allocation: The node is created on the heap using new.
+6.Dynamic Memory Allocation: The node is created on the heap using new.
 
-Display Function: Prints the node's data and the value of the pointer (next) which is NULL since there's no next node.
+7.Display Function: Prints the node's data and the value of the pointer (next) which is NULL since there's no next node.
 Step 1: Start
 
 Begin the program execution.
