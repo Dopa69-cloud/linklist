@@ -1,5 +1,4 @@
 # AIM:
-Aim:
 
 To create a basic singly linked list node in C++ and display the data stored in a single node along with its next pointer.
 To implement a singly linked list in C++ that allows insertion of nodes at the head and displays the entire linked list.
