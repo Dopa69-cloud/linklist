@@ -4,21 +4,21 @@ Begin the program execution.
 
 🔹 Step 2: Define the Node Class
 
-Create a class named Node with:
+1.create a class named Node with:
 
-An integer variable data to store the value of the node.
+>An integer variable data to store the value of the node.
 
-A pointer next of type Node* to store the address of the next node.
+>A pointer next of type Node* to store the address of the next node.
 
 A constructor that:
 
-Takes an integer as input.
+>Takes an integer as input.
 
-Initializes data with the input value.
+>Initializes data with the input value.
 
-Initializes next with NULL.
+>Initializes next with NULL.
 
-A member function display() to:
+>A member function display() to:
 
 Print the value of data.
 
