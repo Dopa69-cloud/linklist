@@ -1,3 +1,28 @@
+# AIM:
+Aim:
+
+To create a basic singly linked list node in C++ and display the data stored in a single node along with its next pointer.
+To implement a singly linked list in C++ that allows insertion of nodes at the head and displays the entire linked list.
+
+# Apparatus:
+
+A computer with a C++ compiler (like g++, clang++)
+
+# Theory:
+
+1.Linked List: A data structure consisting of nodes where each node contains data and a pointer to the next node.
+
+2.Node Class: This represents a single element of the linked list. It contains:
+
+3.data: Stores the actual data (here, an integer).
+
+4.next: A pointer to the next node.
+
+Single Node: This example demonstrates only one node creation and displays its data and pointer.
+
+Dynamic Memory Allocation: The node is created on the heap using new.
+
+Display Function: Prints the node's data and the value of the pointer (next) which is NULL since there's no next node.
 Step 1: Start
 
 Begin the program execution.
